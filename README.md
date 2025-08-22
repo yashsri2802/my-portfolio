@@ -1,7 +1,6 @@
 # 🌐 Portfolio Website
 
 🚀 A modern portfolio website with stunning UI, smooth animations, and interactive 3D experiences.  
-This is my personal portfolio website built with **React + Vite**, showcasing my skills, projects, and interactive 3D elements.  
 
 ## 🚀 Features
 - Responsive design across all devices  
@@ -29,21 +28,18 @@ This is my personal portfolio website built with **React + Vite**, showcasing my
 - **Astronaut Model** – Integrated from Sketchfab  
 - **EmailJS** – For working contact forms  
 
-## 📸 Preview
-![Portfolio Preview](./screenshot.png) <!-- Add screenshot of your site here -->
-
 ## 🌍 Live Demo
-[View Portfolio](https://your-portfolio-link.netlify.app)  
+[View Portfolio](https://folio-yash.netlify.app)  
 
 ## ⚙️ Installation & Setup
 Follow these steps to run the project locally:  
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/yashsri2802/my-portfolio.git
 
 # Navigate to project folder
-cd portfolio
+cd my-portfolio
 
 # Install dependencies
 npm install

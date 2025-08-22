@@ -1,12 +1,51 @@
-# React + Vite
+# 🌐 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with **React + Vite**, showcasing my skills, projects, and interactive 3D elements.  
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Responsive design across all devices  
+- Smooth and modern UI with animations  
+- Interactive 3D models and effects  
+- Working contact form with **EmailJS**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Components / Sections
+- **Navbar** – Easy navigation across sections  
+- **Hero Section** – Introduction with headline and call-to-action  
+- **About** – Short overview about me  
+- **Skills** – Technologies and tools I work with  
+- **Projects** – Showcase of my recent work with live/demo links  
+- **Contact** – Functional contact form powered by EmailJS  
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **React**  
+- **TailwindCSS** – For styling  
+- **React Hooks** – For state and lifecycle management  
+- **Framer Motion** – For smooth animations  
+- **Three.js** – For rendering 3D elements  
+- **React Three Fiber + Drei** – For interactive 3D components  
+- **Aceternity UI + Magic UI** – For stunning UI components  
+- **3D Models** – Imported from Aceternity UI and Magic UI  
+- **Astronaut Model** – Integrated from Sketchfab  
+- **EmailJS** – For working contact forms  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+![Portfolio Preview](./screenshot.png) <!-- Add screenshot of your site here -->
+
+## 🌍 Live Demo
+[View Portfolio](https://your-portfolio-link.netlify.app)  
+
+## ⚙️ Installation & Setup
+Follow these steps to run the project locally:  
+
+```bash
+# Clone this repository
+git clone https://github.com/your-username/portfolio.git
+
+# Navigate to project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev

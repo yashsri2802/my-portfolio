@@ -1,5 +1,7 @@
 # 🌐 Portfolio Website
 
+🚀 A modern portfolio website with stunning UI, smooth animations, and interactive 3D experiences.  
+
 This is my personal portfolio website built with **React + Vite**, showcasing my skills, projects, and interactive 3D elements.  
 
 ## 🚀 Features
@@ -49,3 +51,5 @@ npm install
 
 # Start development server
 npm run dev
+```
+The project will be available at http://localhost:5173

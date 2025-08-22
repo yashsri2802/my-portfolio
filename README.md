@@ -59,7 +59,7 @@ Contributions are welcome! If you’d like to improve this portfolio, feel free 
 
 - Share feedback to make it even better
 
-- Please follow conventional commit messages and ensure proper testing before submitting PRs.
+**Please follow conventional commit messages and ensure proper testing before submitting PRs.**
 
 ## 🏁 Conclusion
 

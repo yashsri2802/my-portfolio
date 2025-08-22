@@ -1,6 +1,6 @@
 # 🌐 Portfolio Website
 
-🚀 A modern portfolio website with stunning UI, smooth animations, and interactive 3D experiences.  
+A modern portfolio website with stunning UI, smooth animations, and interactive 3D experiences.  
 
 ## 🚀 Features
 - Responsive design across all devices  

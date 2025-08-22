@@ -53,3 +53,22 @@ npm install
 npm run dev
 ```
 The project will be available at http://localhost:5173
+
+## 🤝 Contribution
+
+Contributions are welcome! If you’d like to improve this portfolio, feel free to:
+
+Open an issue for suggestions or bugs
+
+Submit a pull request with enhancements
+
+Share feedback to make it even better
+
+Please follow conventional commit messages and ensure proper testing before submitting PRs.
+
+## 🏁 Conclusion
+
+This portfolio is a reflection of my passion for web development, blending modern UI/UX design with interactive 3D elements.
+It not only highlights my skills and projects but also serves as a platform to experiment with cutting-edge technologies.
+
+⭐ Don’t forget to star this repo if you like it :)
